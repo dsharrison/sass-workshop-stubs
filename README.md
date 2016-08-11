@@ -1,0 +1,2 @@
+# SASS Workshop Stub Files
+This repository contains the stub files for the SASS workshop. Before downloading these please ensure that you have [installed sass](http://sass-lang.com/install). You should be able to run `sass -v` and get the current SASS version on your computer.

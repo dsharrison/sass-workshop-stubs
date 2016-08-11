@@ -1,0 +1,12 @@
+{
+  "name": "sass-workshop",
+  "version": "1.0.0",
+  "description": "A workshop for SASS development.",
+  "main": "index.html",
+  "author": "Derrek Harrison",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "load-grunt-tasks": "^3.5.0"
+  }
+}
